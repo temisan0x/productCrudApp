@@ -1,0 +1,12 @@
+body {
+    padding: 0px;
+    font-family: 'RocknRoll One', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.thumb-image{
+    width: 50px;
+}
+.update-image {
+    width: 120px;
+}
